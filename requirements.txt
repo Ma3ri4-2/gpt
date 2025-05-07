@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+openai
+Pillow
+altair
+langchain
+langchain_ollama
+ultralytics 
