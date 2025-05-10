@@ -6,4 +6,6 @@ Pillow
 altair
 langchain
 langchain_ollama
-ultralytics 
+ultralytics
+torch==2.1.0
+torchvision==0.16.0
